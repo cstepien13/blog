@@ -14,5 +14,6 @@ jobs:
         with:
           access-token: ${{ secrets.GITHUB_ACCESS_TOKEN }}
           deploy-branch: gh-pages
+          gatsby-args: --prefix-paths
         env:
           CI: true
