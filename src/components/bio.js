@@ -53,7 +53,7 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
-      <p>Sup Bitches, the name is Cassandra.</p>
+      <p>Hey hey hey, it me.</p>
     </div>
   )
 }

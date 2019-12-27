@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: `/blog`,
   siteMetadata: {
-    title: `Cassandra's World`,
+    title: `It Me`,
     author: `Cassandra Stepsomething`,
     description: `Evertyhing`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
